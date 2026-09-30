@@ -1,7 +1,7 @@
 # AURORA Learning Platform
 
-[![Quality checks](https://github.com/hr185882-creator/aurora-learning-platform/actions/workflows/quality.yml/badge.svg)](https://github.com/hr185882-creator/aurora-learning-platform/actions/workflows/quality.yml)
-[![Live site smoke test](https://github.com/hr185882-creator/aurora-learning-platform/actions/workflows/live-smoke.yml/badge.svg)](https://github.com/hr185882-creator/aurora-learning-platform/actions/workflows/live-smoke.yml)
+[![Quality checks](https://github.com/AuroraGrid/aurora-learning-platform/actions/workflows/quality.yml/badge.svg)](https://github.com/AuroraGrid/aurora-learning-platform/actions/workflows/quality.yml)
+[![Live site smoke test](https://github.com/AuroraGrid/aurora-learning-platform/actions/workflows/live-smoke.yml/badge.svg)](https://github.com/AuroraGrid/aurora-learning-platform/actions/workflows/live-smoke.yml)
 
 A web-based learning and documentation environment for structured analysis, evidence verification, forecasting discipline, and decision workflows built around AURORA GRID.
 
@@ -35,8 +35,8 @@ AURORA Learning is the training and documentation layer of a broader public port
 - RECORD LOCK: https://record-lock-platform.vercel.app/
 - The U.S.–Israel Policy Network: https://youname-it.vercel.app/
 - Research & Decision Systems: https://hasan-research-systems.vercel.app/
-- AURORA GRID OS: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
-- Full project index: https://github.com/hr185882-creator/clia-portfolio
+- AURORA GRID OS: https://AuroraGrid.github.io/aurora-grid-grindwire-site/
+- Full project index: https://github.com/AuroraGrid/clia-portfolio
 
 ## Technology
 
@@ -71,14 +71,14 @@ The repository runs deterministic quality checks on pushes and pull requests, bu
 
 AAIK operates across every stage. Luna expands possibilities, Terra grounds the record, and Sol resolves the judgment and action. AURORA GRID names the complete operating system rather than an internal pipeline step.
 
-Canonical specification: https://github.com/hr185882-creator/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md
+Canonical specification: https://github.com/AuroraGrid/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md
 
 ## Repository links
 
-- Project repository: https://github.com/hr185882-creator/aurora-learning-platform
-- GitHub profile: https://github.com/hr185882-creator
-- Inflection Point Research: https://github.com/hr185882-creator/inflection-point-research
-- AURORA LIVE / Intel Tripwire: https://github.com/hr185882-creator/intel-tripwire
+- Project repository: https://github.com/AuroraGrid/aurora-learning-platform
+- GitHub profile: https://github.com/AuroraGrid
+- Inflection Point Research: https://github.com/AuroraGrid/inflection-point-research
+- AURORA LIVE / Intel Tripwire: https://github.com/AuroraGrid/intel-tripwire
 
 ## Contact
 
