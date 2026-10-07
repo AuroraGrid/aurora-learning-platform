@@ -69,7 +69,7 @@ The repository runs deterministic quality checks on pushes and pull requests, bu
 
 AAIK operates across every stage. Luna expands possibilities, Terra grounds the record, and Sol resolves the judgment and action. AURORA GRID names the complete operating system rather than an internal pipeline step.
 
-Canonical specification: https://github.com/AuroraGrid/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md
+Current canonical architecture and release record: https://github.com/AuroraGrid/kahrelum-os
 
 ## Repository links
 
