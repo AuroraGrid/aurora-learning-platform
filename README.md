@@ -3,7 +3,7 @@
 [![Quality checks](https://github.com/AuroraGrid/aurora-learning-platform/actions/workflows/quality.yml/badge.svg)](https://github.com/AuroraGrid/aurora-learning-platform/actions/workflows/quality.yml)
 [![Live site smoke test](https://github.com/AuroraGrid/aurora-learning-platform/actions/workflows/live-smoke.yml/badge.svg)](https://github.com/AuroraGrid/aurora-learning-platform/actions/workflows/live-smoke.yml)
 
-A web-based learning and documentation environment for structured analysis, evidence verification, forecasting discipline, and decision workflows built around AURORA GRID.
+A web-based learning and documentation environment for structured analysis, evidence verification, forecasting discipline, and decision workflows. Current canonical system: KAHRELUM.
 
 ## Live product
 
@@ -27,16 +27,14 @@ The platform turns the AURORA GRID methodology into a navigable learning product
 - continuous revision and auditable analytical records;
 - forecast review and post-outcome calibration.
 
-## Portfolio context
+## Canonical public context
 
-AURORA Learning is the training and documentation layer of a broader public portfolio that includes:
+Use KAHRELUM as the current public identity and commercial entry point:
 
-- The Epstein Record: https://the-epstein-record.vercel.app/
-- RECORD LOCK: https://record-lock-platform.vercel.app/
-- The U.S.–Israel Policy Network: https://youname-it.vercel.app/
-- Research & Decision Systems: https://hasan-research-systems.vercel.app/
-- AURORA GRID OS: https://AuroraGrid.github.io/aurora-grid-grindwire-site/
-- Full project index: https://github.com/AuroraGrid/clia-portfolio
+- KAHRELUM: https://kahrelum.com
+- KAHRELUM OS: https://github.com/AuroraGrid/kahrelum-os
+- RECORD LOCK: https://github.com/AuroraGrid/record-lock
+- AI Red-Team Dashboard: https://github.com/AuroraGrid/ai-red-team-dashboard
 
 ## Technology
 
@@ -83,6 +81,6 @@ Canonical specification: https://github.com/AuroraGrid/aurora-grid-grindwire-sit
 ## Contact
 
 - Hasan Raza Kazmi
-- Email: Grindwireproject@gmail.com
+- Email: hasan@kahrelum.com
 - Location: Pakistan
 - Work preference: fully remote
